@@ -1,5 +1,5 @@
-# practica1
-## Esta es la primera practica realizada durante la materia de programacion 2. En este programa se calculara una aproximnacion a el numero pi mediante el metodo montecarlo usando recursividad.
+# practica2
+## Esta es la segunda practica realizada durante la materia de programacion 2. En este programa se calculara una aproximnacion a el numero pi mediante el metodo montecarlo usando recursividad.
 
 ## Tabla de Contenidos
 
@@ -28,9 +28,9 @@ make ejecutar
 
 1.**Introducir cantidad de decimales**: 
 
-Ingrese el número de decimales en funcion de potencias de 10 para calcular el número PI(Ejemplo: 1000000):
-10000000
-El numero PI es 3.1422772
+Solo se puede con 1000 que serian 4 decimales 
+
+El numero PI es 3.142
 
 ## Contribuciones
 
